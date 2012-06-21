@@ -46,7 +46,7 @@
 			this.mouseup(function(e) {
 				var boxpos = box.position();
 				var result = {
-					topleft: {
+					topLeft: {
 						X: boxpos.left,
 						Y: boxpos.top
 					},
